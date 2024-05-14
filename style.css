@@ -19,8 +19,6 @@ header {
     background-color: #fff;
     color: #000;
     grid-area: head;
-    position: sticky;
-    top: 0;
     border-bottom: solid 1px #f4f4f4;
 }
 .logo{
