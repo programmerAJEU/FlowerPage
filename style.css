@@ -82,6 +82,7 @@ a:hover{
 }
 .hide{
     display: none;
+    index: -10;
 }
 footer {
     text-align: center;
