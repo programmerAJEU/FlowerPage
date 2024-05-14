@@ -75,6 +75,7 @@ header {
     padding: 0;
     display: flex;
     gap: 1em;
+    index: -10;
 }
 a:hover{
     color: #0D6EFD !important;
